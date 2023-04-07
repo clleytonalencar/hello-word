@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 Arquivo criado para aula de setup de ferramentas.
 
